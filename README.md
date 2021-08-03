@@ -1,2 +1,2 @@
 # hello-world
-I try to learn Code to improve myself, so I'm here.
+I want to learn Code to improve myself, so I'm here.
